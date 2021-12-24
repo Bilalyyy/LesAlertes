@@ -1,4 +1,4 @@
-# LesAlertes VS ActionSheet
+# Les Alerte VS ActionSheet
 
 Je place deux boutons en bas de l'écran, le premier déclanche une UIAlerte de style: .alert.
 Cette .alert comportera elle même trois boutons:
