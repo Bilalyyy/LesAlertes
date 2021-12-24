@@ -10,6 +10,8 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBOutlet weak var lblText: UILabel!
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
